@@ -4,7 +4,7 @@
             {
                 serviceCode: "PSL1",
                 patientId: "101",
-                patientName: "ياسين نجيب احمد",
+                patientName: "ريناد عبدالعزيز احمد",
                 sickLeaveDate: "2025-01-03",
                 from: "2025-01-03",
                 to: "2025-01-03",
@@ -13,8 +13,8 @@
                 jobTitle: "طبيب عام"
             },
             {
-                serviceCode: "psl",
-                patientId: "id",
+                serviceCode: "PSL7",
+                patientId: "107",
                 patientName: "name",
                 sickLeaveDate: "2025-01-03",
                 from: "2025-01-03",
