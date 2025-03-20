@@ -4,7 +4,7 @@
             {
                 serviceCode: "PSL1",
                 patientId: "101",
-                patientName: "ريناد عبدالعزيز احمد",
+                patientName: "وليد قائد",
                 sickLeaveDate: "2025-01-03",
                 from: "2025-01-03",
                 to: "2025-01-03",
@@ -20,18 +20,18 @@
                 from: "2025-01-03",
                 to: "2025-01-03",
                 duration: "1",
-                doctorName: "نواف النجار",
+                doctorName: "نوف العنزي",
                 jobTitle: "طبيب عام"
             },
             {
                 serviceCode: "PSL6",
                 patientId: "106",
-                patientName:"سكليف",
+                patientName:"محمد مصطفى سيف",
                 sickLeaveDate: "2025-01-03",
                 from: "2025-01-03",
                 to: "2025-01-03",
                 duration: "1",
-                doctorName:"سكليف",
+                doctorName:"نوران خلف العنزي",
                 jobTitle: "طبيب عام"
             },
             {
