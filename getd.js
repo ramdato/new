@@ -2,12 +2,12 @@
     
         const sickLeaves = [
             {
-                serviceCode: "PSL1",
-                patientId: "101",
-                patientName: "وليد قائد",
-                sickLeaveDate: "2025-01-03",
-                from: "2025-01-03",
-                to: "2025-01-03",
+                serviceCode: "PSL20252024450",
+                patientId: "1120252024",
+                patientName: "رهف خالد الدوسري",
+                sickLeaveDate: "2025-03-20",
+                from: "2025-03-18",
+                to: "2025-03-18",
                 duration: "1",
                 doctorName: "ساره فخرى ابراهيم عياط",
                 jobTitle: "طبيب عام"
